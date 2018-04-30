@@ -11,8 +11,6 @@
 		532B45F12096ECAC00A0820D /* CommonCrypto.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 532B45EC2096ECA000A0820D /* CommonCrypto.framework */; };
 		532B45F22096ECB800A0820D /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 532B45E92096EC9500A0820D /* Alamofire.framework */; };
 		532B45F32096ECB800A0820D /* CommonCrypto.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 532B45E82096EC9500A0820D /* CommonCrypto.framework */; };
-		532B45F42096F69C00A0820D /* BinanceApi.h in Headers */ = {isa = PBXBuildFile; fileRef = E928A46E1F9A03AD0078BA33 /* BinanceApi.h */; };
-		532B45F52096F69C00A0820D /* BinanceApi.h in Headers */ = {isa = PBXBuildFile; fileRef = E928A46E1F9A03AD0078BA33 /* BinanceApi.h */; };
 		532B45F62096F6A000A0820D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E928A46F1F9A03AD0078BA33 /* Info.plist */; };
 		532B45F72096F6A000A0820D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E928A46F1F9A03AD0078BA33 /* Info.plist */; };
 		532B45F82096F6A700A0820D /* DataRequest+BinanceRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92A053F1FA1C7A400906A7A /* DataRequest+BinanceRequest.swift */; };
@@ -162,7 +160,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				532B45F42096F69C00A0820D /* BinanceApi.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,7 +167,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				532B45F52096F69C00A0820D /* BinanceApi.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
