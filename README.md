@@ -11,7 +11,7 @@ This library enables access to the [Binance REST API](https://www.binance.com/re
 Add the repository to your `Cartfile`:
 
 ```
-github "dpyro/BinanceApi"
+github "hamtaw/BinanceApi"
 ```
 
 Then update your built frameworks.
